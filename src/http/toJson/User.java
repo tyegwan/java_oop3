@@ -1,6 +1,9 @@
 package http.toJson;
 
+
 import lombok.Data;
+
+
 @Data
 public class User {
 
